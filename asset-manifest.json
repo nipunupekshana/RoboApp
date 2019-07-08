@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/RoboApp/static/css/main.e2ec1c0f.chunk.css",
+    "main.js": "/RoboApp/static/js/main.38b37eb4.chunk.js",
+    "main.js.map": "/RoboApp/static/js/main.38b37eb4.chunk.js.map",
+    "runtime~main.js": "/RoboApp/static/js/runtime~main.63995c9c.js",
+    "runtime~main.js.map": "/RoboApp/static/js/runtime~main.63995c9c.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/RoboApp/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/RoboApp/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/RoboApp/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/RoboApp/index.html",
+    "precache-manifest.018ec8d26cc1118ab177e6b77c8720dc.js": "/RoboApp/precache-manifest.018ec8d26cc1118ab177e6b77c8720dc.js",
+    "service-worker.js": "/RoboApp/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/RoboApp/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.e2ec1c0f.chunk.css.map": "/RoboApp/static/css/main.e2ec1c0f.chunk.css.map",
+    "static/media/App.css": "/RoboApp/static/media/SEGA.12a3db8b.woff"
+  }
+}
